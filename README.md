@@ -1,1 +1,1 @@
-![alt text](assets/90scomputerGIF.gif)
+![alt text](90scomputerGIF.gif)
